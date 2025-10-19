@@ -1,0 +1,11 @@
+/* src/App.css */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+/* Optional custom class example */
+.title {
+  color: #2563eb; /* Tailwind’s blue-600 */
+  font-weight: bold;
+}
+
